@@ -1,0 +1,8 @@
+.inputField {
+  height: 30px;
+  margin-left: 20px;
+  border: 1px solid black;
+  outline: none;
+  border-radius: 3px;
+  text-indent: 20px;
+}
